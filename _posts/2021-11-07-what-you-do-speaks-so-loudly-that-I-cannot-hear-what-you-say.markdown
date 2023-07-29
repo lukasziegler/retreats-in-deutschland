@@ -7,6 +7,7 @@ author: admin
 image: '/images/08.jpg'
 image_caption: 'Photo by [Annie Spratt](https://unsplash.com/photos/b_WnrEzOkXE) on [Unsplash](https://unsplash.com/)'
 tags: [travel, hobby, notes]
+featured: true
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
